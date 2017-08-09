@@ -154,8 +154,8 @@ $(function()  {
        var map;
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
-          center:new google.maps.LatLng(51.508742,-0.120850),
-          zoom: 8,
+          center:new google.maps.LatLng(-21.1315735,-44.2556367),
+          zoom: 19,
           scrollwheel: false
         });
       }
